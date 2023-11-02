@@ -1,4 +1,4 @@
 torch
 timm
-transformers==4.12.3
+transformers
 tqdm
